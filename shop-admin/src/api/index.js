@@ -1,0 +1,1 @@
+export const specsdelete = "/specsdelete";
